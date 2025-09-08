@@ -1,0 +1,38 @@
+Rekenspel Ideeen
+
+Idee 1
+
+Currency
+
+Mango's zijn de currency, je krijgt ze door te winnen en top 3 snelste krijgen 1 mango, voor een win krijg je 10. Elke keer als je wint krijg je 1 win die op de scoreboard te zien is
+
+Idee 2
+
+Main menu
+
+Je ziet een mango met omid zijn schreeuwende gezicht en knoppen van "Shop" en "Play"
+
+Idee 3
+
+Minigames
+
+Mingle : Er gaat een timer af er zijn 8 deuren met verschillende antwoorden boven de deuren. Er is een som boven aan het scherm en daaronder de timer. Los de som op en ga in de correcte deur om verder te gaan
+
+Omgekeerd rekenen : Je ziet eerst de uitkomst van de som en dan heb je tegels met verschillende nummers erop en dan moet je er 3 selecteren om de uitkomst de krijgen die rechts van je scherm staat
+
+Rekenrace HP Drain : Elke speler gaat tegen elkaar in een race en heeft zijn eigen aantal HP (Heath punten), elke seconde dat ze niet antwoorden verliezen ze 1 HP als ze verkeerd antwoorden dan -5 HP en als ze goed antwoorden +3 HP. Hoe langer de race duurt hoe meer HP Drain
+
+Idee 4
+
+Shop
+
+Je kan hulpmiddelen kopen in de game om je game makkelijker te maken
+Je kan powerups kopen om verschillende dingen te doen, bijvoorbeeld toon antwoord / skip som in een normale game
+Je kan revivetokens kopen om jezelf terug in de game te brengen
+
+Idee 5
+
+Scoreboard
+
+Scoreboard na elke minigame om te zien welke speler de leiding heeft op dit moment.
+Op de scoreboard kan je aantal mango's zien en de spelers' hun wins
